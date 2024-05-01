@@ -141,4 +141,4 @@ If you have any idea on improving the performance, adding more customizations or
 
 
 ## What file to run
-Run 'testing.py' on python version 3.8 and tensorflow version 2.13
+Run 'testing.py' on python version 3.8.19 and tensorflow version 2.13
