@@ -138,3 +138,7 @@ Score (Test Accuracy): 0.9799000024795532
 ## Contributing
 
 If you have any idea on improving the performance, adding more customizations or correcting mistakes, please make a pull request or create an issue. I'd be happy to accept any contributions!
+
+
+## What file to run
+Run 'testing.py' on python version 3.8 and tensorflow version 2.13
